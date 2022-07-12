@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title></title>
+  <title>Efforts to make life more meaningful</title>
   
   <subtitle>Efforts to make life more meaningful</subtitle>
-  <link href="https://unclepen.top/unclepen/atom.xml" rel="self"/>
+  <link href="https://unclepen.github.io/atom.xml" rel="self"/>
   
-  <link href="https://unclepen.top/unclepen/"/>
+  <link href="https://unclepen.github.io/"/>
   <updated>2022-07-11T13:53:21.963Z</updated>
-  <id>https://unclepen.top/unclepen/</id>
+  <id>https://unclepen.github.io/</id>
   
   <author>
     <name>肖朝亮</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="https://unclepen.top/unclepen/2022/07/11/%E5%A4%B1%E8%90%BD%E7%9A%84%E6%97%A5%E5%AD%90%E6%80%BB%E6%98%AF%E5%B8%B8%E6%9C%89%E7%9A%84/"/>
-    <id>https://unclepen.top/unclepen/2022/07/11/%E5%A4%B1%E8%90%BD%E7%9A%84%E6%97%A5%E5%AD%90%E6%80%BB%E6%98%AF%E5%B8%B8%E6%9C%89%E7%9A%84/</id>
+    <link href="https://unclepen.github.io/2022/07/11/%E5%A4%B1%E8%90%BD%E7%9A%84%E6%97%A5%E5%AD%90%E6%80%BB%E6%98%AF%E5%B8%B8%E6%9C%89%E7%9A%84/"/>
+    <id>https://unclepen.github.io/2022/07/11/%E5%A4%B1%E8%90%BD%E7%9A%84%E6%97%A5%E5%AD%90%E6%80%BB%E6%98%AF%E5%B8%B8%E6%9C%89%E7%9A%84/</id>
     <published>2022-07-11T13:53:16.837Z</published>
     <updated>2022-07-11T13:53:21.963Z</updated>
     
